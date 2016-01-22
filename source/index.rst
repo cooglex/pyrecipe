@@ -11,6 +11,4 @@ skywalker 学习文档
    :maxdepth: 2
    :glob:
    
-   copyright
    python/*
-   aboutme
