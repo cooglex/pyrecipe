@@ -1,0 +1,28 @@
+﻿================================
+1.2 发布到本机
+================================
+
+----------
+发布
+----------
+1. 找到本机python安装目录，作者本机目录为：
+
+.. code-block:: python
+
+    C:\Python34
+
+2. 在  ``C:\\Python34\\Lib\\site-packages\\`` 目录下，创建 ``pysky.pth`` 文件，输入以下路径保存：
+
+.. code-block:: python
+
+    D:\pystudy\
+
+----------
+测试
+----------
+.. code-block:: python
+
+    >>> from pysky import pytest
+    >>> pytest.PrintHello()
+    hello world!
+    >>>

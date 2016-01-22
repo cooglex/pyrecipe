@@ -1,0 +1,29 @@
+﻿===============================
+1.1 创建库目录结构
+===============================
+
+1. 假定初始目录为：
+
+.. code-block:: python
+
+    D:\pystudy\
+
+2. 首先在 ``D:\\pystudy\\`` 目录下创建名为 ``pysky`` 文件夹作为库目录：
+
+.. code-block:: python
+
+    D:\pystudy\pysky\
+
+3. 然后在 ``D:\\pystudy\\pysky\\`` 目录下创建 ``pytest.py`` 文件：
+
+.. code-block:: python
+
+    D:\pystudy\pysky\pytest.py
+
+4. 最后在 ``D:\\pystudy\\pysky\\pytest.py`` 中输入以下python代码：
+
+.. code-block:: python
+
+    def PrintHello():
+        print("hello world!")
+
