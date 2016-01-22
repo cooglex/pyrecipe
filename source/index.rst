@@ -7,8 +7,6 @@
 skywalker 学习文档
 ================================================
 
-Contents:
-
 .. toctree::
    :maxdepth: 2
    :glob:
